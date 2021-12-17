@@ -15,3 +15,6 @@ No goats here, move along...
 
 How about an airplane instead?
 ![airplane](images/N67BT.jpg)
+
+And another?
+![another airplane](images/ugly.jpeg)
