@@ -30,9 +30,12 @@ use the up and down arrows in the upper-right corner of sublime merge
 
 ## here is the product:
 
-Looks like we have a goat!
-
-![an adorable sleepy goat](https://i.redd.it/wotgz3jtnq581.jpg)
+### table of goats
+| name             | cute factor      | image                                                                 |
+| ---------------- | ---------------- |-----------------------------------------------------------------------|
+| Sleepy Goat      |              9.5 | ![an adorable sleepy goat](https://i.redd.it/wotgz3jtnq581.jpg)       |
+| Flying Goat      |              8.9 | ![a flying goat](https://i.redd.it/3tjosaveqq581.jpg)                 |
+| Hay Goat         |              8.5 | ![hay goat](https://i.redd.it/iv2ul8r63n581.jpg)                      |
 
 How about an airplane too?
 
