@@ -44,3 +44,10 @@ And another?
 
 -----
 This is a future change
+
+-----
+# More Airplanes!
+
+![toy airplane #1](images/toy1.jpg)
+
+![toy airplane #2](images/toy2.jpg)
