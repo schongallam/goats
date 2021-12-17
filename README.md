@@ -6,7 +6,7 @@ my notes:
 
 
 
-## git is not just a website
+## Git is not just a website
 it is a version control system...
 ... AND...
 it can exist independently on my own machine!
