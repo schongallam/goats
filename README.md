@@ -4,4 +4,9 @@ my notes:
 -jetbrains better but expensive (kinda)
 -sublime merge good
 
-some more changes
+
+
+## git is not just a website
+it is a version control system...
+... AND...
+it can exist independently on my own machine!
