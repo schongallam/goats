@@ -17,16 +17,41 @@ it can exist independently on my own machine!
     - we committed the resolutions
 - we celebrated
 
+## working with others
+Never force push!
+- unless you hate them
+
+'origin' is the typical name for the remote on github
+
+'fetch' will retrieve a list of the changes that were made, without downloading the changes themseles
+
+use the up and down arrows in the upper-right corner of sublime merge
+
+
 ## here is the product:
 
-Looks like we have a goat!
-![an adorable sleepy goat](https://i.redd.it/wotgz3jtnq581.jpg)
+### table of goats
+| name             | cute factor      | image                                                                 |
+| ---------------- | ---------------- |-----------------------------------------------------------------------|
+| Sleepy Goat      |              9.5 | ![an adorable sleepy goat](https://i.redd.it/wotgz3jtnq581.jpg)       |
+| Flying Goat      |              8.9 | ![a flying goat](https://i.redd.it/3tjosaveqq581.jpg)                 |
+| Hay Goat         |              8.5 | ![hay goat](https://i.redd.it/iv2ul8r63n581.jpg)                      |
 
 How about an airplane too?
+
 ![airplane](images/N67BT.jpg)
 
 And another?
+
 ![another airplane](images/ugly.jpeg)
 
 -----
+
 This is a past change
+
+-----
+# More Airplanes!
+
+![toy airplane #1](images/toy1.jpg)
+
+![toy airplane #2](images/toy2.jpg)
