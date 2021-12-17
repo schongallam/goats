@@ -55,3 +55,13 @@ This is a past change
 ![toy airplane #1](images/toy1.jpg)
 
 ![toy airplane #2](images/toy2.jpg)
+
+------------
+
+Here is some code:
+```python
+
+def print_my_message(goat_type):
+    print(f"Hello, my lord, {goat_type} goat of the underworld")
+
+```
