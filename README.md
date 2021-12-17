@@ -17,6 +17,17 @@ it can exist independently on my own machine!
     - we committed the resolutions
 - we celebrated
 
+## working with others
+Never force push!
+- unless you hate them
+
+'origin' is the typical name for the remote on github
+
+'fetch' will retrieve a list of the changes that were made, without downloading the changes themseles
+
+use the up and down arrows in the upper-right corner of sublime merge
+
+
 ## here is the product:
 
 Looks like we have a goat!
