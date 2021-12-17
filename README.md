@@ -61,7 +61,7 @@ This is a past change
 Here is some code:
 ```python
 
-def print_my_message:
-    print("Hello, goat underworld")
+def print_my_message(goat_type):
+    print(f"Hello, {goat_type} goat underworld")
 
 ```
